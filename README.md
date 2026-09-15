@@ -8,3 +8,5 @@ Default method: Simpson
 
 - trapezoid
 - simpson
+
+Maintained by Louis Radial.
