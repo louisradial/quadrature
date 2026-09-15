@@ -2,7 +2,7 @@
 
 Simple numerical integration routines in Python.
 
-Default method: simpson
+Default method: Simpson
 
 ## Methods implemented
 
